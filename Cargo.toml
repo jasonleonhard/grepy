@@ -1,5 +1,5 @@
 [package]
-name = "minigrep"
+name = "grepy"
 version = "0.1.0"
 authors = ["Jason Leonhard <leonhard.jason@gmail.com>"]
 description = "A tool to search files"
