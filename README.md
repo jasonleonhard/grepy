@@ -15,7 +15,8 @@
 
     cargo build --release
     cd ~/code/rust/grepy/target/release
-    ./grepy run t sample.txt                                # same as # cargo run t sample.txt
+    ./grepy run t sample.txt
+    # same as # cargo run t sample.txt
     ~/code/rust/grepy/target/release/grepy run t sample.txt # same as # cargo run t sample.txt
 
 so.... just add rust to your path and you can then run from anywhere
@@ -40,3 +41,4 @@ This binary is completely self-contained, so you can move or copy it to somewher
     cargo publish
 
 [ref](https://rust-cli.github.io/book/tutorial/packaging.html#quickest-cargo-publish)
+
