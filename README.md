@@ -1,3 +1,5 @@
+[This crate is published here](https://crates.io/crates/grepy)
+
 # Unit Tests
 
     cargo run tests sample.text
@@ -36,10 +38,8 @@ This binary is completely self-contained, so you can move or copy it to somewher
 # Run from anywhere
 [This is my first rust lang answer on stack overflow](https://stackoverflow.com/questions/60944480/how-do-i-make-a-rust-program-which-can-be-executed-without-using-cargo-run/63403224#63403224)
 
-# publish
+# Publish to crates.io
 
     cargo publish
 
 [ref](https://rust-cli.github.io/book/tutorial/packaging.html#quickest-cargo-publish)
-
-[This crate is published here](https://crates.io/crates/grepy)
