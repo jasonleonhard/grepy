@@ -42,3 +42,4 @@ This binary is completely self-contained, so you can move or copy it to somewher
 
 [ref](https://rust-cli.github.io/book/tutorial/packaging.html#quickest-cargo-publish)
 
+[This crate is published here](https://crates.io/crates/grepy)
